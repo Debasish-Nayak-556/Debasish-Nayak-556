@@ -133,11 +133,6 @@
 ### 💚 Night Green (Hacker Mode)
 <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-green.svg" alt="Night Green" width="90%" />
 
-
-### 🟢 Green
-<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-green.svg" alt="Green" width="90%" />
-
-
 ### 🟦 Git Block
 <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-gitblock.svg" alt="Git Block" width="90%" />
 
