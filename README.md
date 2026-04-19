@@ -125,12 +125,32 @@
 
 ---
 
-## 📐 3D Contribution Graph
+## 📐 3D Contribution Graphs
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-view.svg" alt="3D Graph" width="90%" />Graph" width="90%" />
-</div>
 
+### 🌙 Night View
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-view.svg" alt="Night View" width="90%" />
+
+### 💚 Night Green (Hacker Mode)
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-green.svg" alt="Night Green" width="90%" />
+
+### 🌈 Night Rainbow
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-rainbow.svg" alt="Night Rainbow" width="90%" />
+
+### 🟢 Green
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-green.svg" alt="Green" width="90%" />
+
+### ✨ Green Animated
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-green-animate.svg" alt="Green Animated" width="90%" />
+
+### 🍂 Season Animated
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-season-animate.svg" alt="Season Animated" width="90%" />
+
+### 🟦 Git Block
+<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-gitblock.svg" alt="Git Block" width="90%" />
+
+</div>
 ---
 
 ## 🔝 Top Repositories
