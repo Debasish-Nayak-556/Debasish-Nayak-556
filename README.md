@@ -129,14 +129,10 @@
 
 <div align="center">
 
-### 🌙 Night View
-<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-view.svg" alt="Night View" width="90%" />
 
 ### 💚 Night Green (Hacker Mode)
 <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-green.svg" alt="Night Green" width="90%" />
 
-### 🌈 Night Rainbow
-<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-night-rainbow.svg" alt="Night Rainbow" width="90%" />
 
 ### 🟢 Green
 <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-green.svg" alt="Green" width="90%" />
