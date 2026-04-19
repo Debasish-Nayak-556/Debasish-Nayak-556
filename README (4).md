@@ -128,9 +128,8 @@
 ## 📐 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Contribution Graph" width="90%" />
+  <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/output/profile-night-view.svg" alt="3D Contribution Graph" width="90%" />
 </div>
-
 ---
 
 ## 🔝 Top Repositories
