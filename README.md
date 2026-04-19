@@ -137,11 +137,6 @@
 ### 🟢 Green
 <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-green.svg" alt="Green" width="90%" />
 
-### ✨ Green Animated
-<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-green-animate.svg" alt="Green Animated" width="90%" />
-
-### 🍂 Season Animated
-<img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-season-animate.svg" alt="Season Animated" width="90%" />
 
 ### 🟦 Git Block
 <img src="https://raw.githubusercontent.com/Debasish-Nayak-556/Debasish-Nayak-556/3d-output/profile-gitblock.svg" alt="Git Block" width="90%" />
